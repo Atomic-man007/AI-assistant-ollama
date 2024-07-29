@@ -1,7 +1,5 @@
 # AI-assistant-ollama
 
-# README
-
 ## Project Description
 
 This project demonstrates how to use various components from the `langchain_community` and `langchain_core` libraries to load, transform, embed, and retrieve documents from a PostgreSQL database with PGVector enabled. The documents are sourced from URLs, transformed into text, split into manageable chunks, and stored as vectors in the database for retrieval. The project also showcases how to create a RAG (Retrieval-Augmented Generation) chain using the Ollama language model to answer questions based on the context retrieved from the vector store.
@@ -17,7 +15,7 @@ This project demonstrates how to use various components from the `langchain_comm
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Atomic-man007/AI-assistant-ollama
+git clone https://github.com/Atomic-man007/AI-assistant-ollama.git
 ```
 
 2. Create a virtual environment and activate it:
