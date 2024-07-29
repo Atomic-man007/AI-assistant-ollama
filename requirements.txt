@@ -1,1 +1,2 @@
-ollama
+langchain_community
+langchain
